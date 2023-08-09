@@ -8,12 +8,13 @@
     "@vkontakte/icons": "1.201.0",
     "@vkontakte/vk-bridge": "2.7.0",
     "@vkontakte/vkui": "latest",
+    "axios": "latest",
+    "glpi-api": "1.6.1",
+    "passport": "^0.6.0",
+    "passport-mail-ts": "1.0.2",
     "react": "latest",
     "react-dom": "latest",
-    "react-scripts": "4.0.3",
-    "axios": "latest",
-    "passport": "0.6.0",
-    "passport-mail-ts": "1.0.2"
+    "react-scripts": "4.0.3"
   },
   "devDependencies": {
     "@types/react": "latest",
