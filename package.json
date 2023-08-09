@@ -19,6 +19,9 @@
   "devDependencies": {
     "@types/react": "latest",
     "@types/react-dom": "latest",
+    "@types/node": "20.4.9",
+    "@types/node-fetch": "2.6.4",
+    "@strapi/helper-plugin": "4.12.4",
     "typescript": "latest"
   },
   "scripts": {

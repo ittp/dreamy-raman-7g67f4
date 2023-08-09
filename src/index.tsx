@@ -20,6 +20,7 @@ root.render(
   <StrictMode>
     <ConfigProvider>
       <AppRoot>
+        <Div>Header</Div>
         <App />
       </AppRoot>
     </ConfigProvider>

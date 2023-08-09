@@ -1,5 +1,5 @@
-const bridge = require() '@vkontakte/vk-bridge'
+const bridge = "@vkontakte/vk-bridge";
 
 // process.env.app_token
 
-process.env.user_token
+process.env.user_token;

@@ -45,8 +45,7 @@ const TicketsView = async (data: []) => {
   </View>;
 };
 
-export default function App() {
-  console.log(glpi);
+export default function App(data: any) {
   return (
     <View activePanel="profile">
       <Panel id="profile">
