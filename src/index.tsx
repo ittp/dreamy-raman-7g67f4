@@ -1,6 +1,8 @@
+'use client'
+
 import { StrictMode } from "react";
 import * as ReactDOMClient from "react-dom/client";
-import { ConfigProvider, AppRoot } from "@vkontakte/vkui";
+import { ConfigProvider, AppRoot , Div, InfoRow, Group, View} from "@vkontakte/vkui";
 import "@vkontakte/vkui/dist/vkui.css";
 
 import App from "./App";

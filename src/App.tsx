@@ -1,3 +1,4 @@
+"use client";
 import {
   Panel,
   InfoRow,
@@ -9,6 +10,7 @@ import {
   SimpleCell,
   View,
   CardGrid,
+  Link,
 } from "@vkontakte/vkui";
 
 // import * as glpi from ".glpi-api";
@@ -51,8 +53,7 @@ export default function App(data: any) {
       <Panel id="profile">
         <PanelHeader>VKUI</PanelHeader>
         <Group>
-          <SimpleCell>Hello</SimpleCell>
-          <SimpleCell>world</SimpleCell>
+          <Link src={"./"} value={"lonk"} />
         </Group>
       </Panel>
     </View>
