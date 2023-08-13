@@ -4,7 +4,7 @@ import { StrictMode } from "react";
 import * as ReactDOMClient from "react-dom/client";
 import { ConfigProvider, AppRoot , Div, InfoRow, Group, View} from "@vkontakte/vkui";
 import "@vkontakte/vkui/dist/vkui.css";
-
+imprt { GlpiAgent } from 'glpi-client'
 import App from "./App";
 
 const rootElement = document.getElementById("root");
